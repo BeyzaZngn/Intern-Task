@@ -1,6 +1,18 @@
 # Kratos3D-Intern-Task
 Kratos3D-Intern-Task
 
+Features that work:
+
+* When our application is first opened, a 5-second Gif will greet you.
+* Firebase Database was used in our application. 
+* After clicking the Create one button:
+-> You can register by clicking the Create Account button with your name, surname, email and password and then you can log in to our application.
+* If you have registered before, you can log in to our application by entering e-mail and password and clicking the Login Now button.
+* The name and surname you entered while registering to the application will appear on the Home page.
+* If you have forgotten your password, you can update your password via e-mail sent to your e-mail by clicking the Forgot password? button.
+* In addition, Cancel and Logout buttons work according to the requirements and the "Remember me" box can also be ticked.
+
+
 ### LaunchScreen
 <img src="https://github.com/BeyzaZngn/Kratos3D-Intern-Task/assets/112340720/24f63e88-6838-4b57-9439-4eebd6eb17b9" width="200" />
 
