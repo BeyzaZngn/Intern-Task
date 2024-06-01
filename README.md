@@ -1,5 +1,5 @@
-# Kratos3D-Intern-Task
-Kratos3D-Intern-Task
+# Intern-Task
+Intern-Task
 
 Features that work:
 
