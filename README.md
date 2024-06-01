@@ -1,4 +1,4 @@
 # Kratos3D-Intern-Task
 Kratos3D-Intern-Task
 
-<img src="![LaunchScreen](https://github.com/BeyzaZngn/Kratos3D-Intern-Task/assets/112340720/26c94bf4-faca-46fa-8bb1-480b0f82d3ea)">
+![LaunchScreen](https://github.com/BeyzaZngn/Kratos3D-Intern-Task/assets/112340720/24f63e88-6838-4b57-9439-4eebd6eb17b9)
